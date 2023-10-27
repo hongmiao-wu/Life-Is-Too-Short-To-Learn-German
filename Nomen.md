@@ -8,6 +8,7 @@
 7. die Tasche, -en
 8. die Brille, -en
 9. die Bluse, -en
+10. die Universität, -en
 # Neutrum
 1. das Gymnasium, die Gymnasien
 2. das Treffen, -
@@ -21,3 +22,4 @@
 4. der Stiefel(boot), -
 5. der Briefkasten, -ä
 6. der Beruf, -e
+7. der Döner, -
