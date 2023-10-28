@@ -2,10 +2,23 @@
 ### Femininum
 1. die Türkei
 2. die Schweiz
+3. die Mongolei
+4. die Tschechische Republik
+5. die Ukraine
+6. die Bundersrepublik
 ### Maskulinum
 1. der Iran
+2. der Irak
+3. der Sudan
+4. der Libanon
+5. der Nahe Osten
+6. der Vatikan
 ### Plural
 1. die Niederlande
+2. die USA
+3. die Philippinen
+4. die Vereinigten Staaten
+5. die Vereinigten Emirate
 
 ## Nationalitäten
 Land | feminin Singular | Plural | maskulin Singular | Plural
