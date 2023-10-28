@@ -15,6 +15,7 @@
 3. das Handy, -s
 4. das T-Shirt, -s
 5. das Buch, -ü er
+6. das Fleisch, kein Pl.
 # Maskulinum
 1. der Unterricht, -e
 2. der Test, -s
