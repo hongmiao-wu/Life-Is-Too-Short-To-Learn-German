@@ -24,10 +24,4 @@
 |sie/Sie|   |   |   |
 
 ### Artikel
-|   |der |die |das |die |
-|---|---|---|---|---|
-|Nom   |der   |die   |das   |die   |
-|Gen   |des   |der   |des   |der   |
-|Dativ   |dem   |der   |dem   |den   |
-|Akku   |den   |die   |das   |den   |
 ![image](Artikel.png)
